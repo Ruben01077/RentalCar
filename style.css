@@ -1,0 +1,420 @@
+#mustangContainer {
+
+    display: inline-block;
+    border-style:groove;
+    border-radius: 20px;
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    height: 380px;
+    box-shadow: 5px 5px 10px;
+    width: 870px;
+    margin-left: 60px;
+    margin-right: 15px ;
+    margin-top: 150px;
+   
+
+
+}
+
+#priusContainer {
+
+    display: inline-block;
+    border-style: groove;
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-radius: 20px;
+    height: 380px;
+    box-shadow: 5px 5px 10px;
+    margin-bottom: 15px;
+    margin-left: 5px;
+    width: 870px;
+
+
+
+
+}
+
+#priusprime1Container {
+
+    display: inline-block;
+    border-style: groove;
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    box-shadow: 5px 5px 10px;
+    border-radius: 20px;
+    height: 400px;
+    width: 870px;
+
+
+}
+
+#priusprime2Container {
+
+    display: inline-block;
+    border-style: groove;
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    box-shadow: 5px 5px 10px;
+    border-radius: 20px;
+    height: 400px;
+    width: 870px;
+    margin-left: 60px;
+
+    
+
+
+}
+
+
+#lexusContainer {
+
+    display: inline-block;
+    border-style: groove;
+   
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    box-shadow: 5px 5px 10px;
+    border-radius: 20px;
+    height: 400px;
+    width: 870px;
+    margin-right: 20px;
+    margin-left: 60px;
+    margin-bottom: 35px;
+
+
+}
+
+
+
+
+#mainDiv {
+
+    height: 100px;
+  
+
+    
+
+}
+
+
+
+
+#mustangPicture {
+
+    width: 550px;
+
+    
+
+
+}
+
+
+
+
+
+#priusPicture {
+
+    width: 550px;
+   
+
+
+}
+
+
+#priusprime1Picture {
+
+    width: 550px;
+    transform: translate(0%, 18%);
+   
+
+}
+
+#priusprime2Picture {
+
+    width: 550px;
+    transform: translate(-15%, 18%);
+    
+
+}
+
+
+#lexusPicture {
+
+    width: 550px;
+    transform: translate(0%, 27%);
+   
+
+
+}
+
+#carsDiv {
+    
+    width: 1895.4px;
+    height: 1300px;
+    display: inline-block;
+    text-align: left;
+ 
+   
+
+
+}
+
+
+#bookButtonMustang {
+
+    font-size: 41px;
+    transform: translate(115%, -140%);
+    border-radius: 100px;
+    cursor: pointer;
+    background-color:rgb(255, 0, 0);
+   transition: box-shadow 0.2s;
+   padding-left: 15px;
+   padding-right: 15px;
+   border-style: none;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+
+}
+
+
+#bookButtonMustang:hover{
+
+opacity: 0.9;
+box-shadow: 5px 5px 10px;
+
+
+
+
+
+}
+
+
+
+#bookButtonMustang:active {
+
+    opacity: 0.7;
+ 
+
+}
+
+#bookButtonPrius {
+
+    font-size: 41px;
+    transform: translate(115%, -140%);
+    border-radius: 100px;
+    cursor: pointer;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color:rgb(255, 0, 0);
+   transition: box-shadow 0.2s;
+   border-style: none;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+   
+
+
+   
+
+
+}
+
+
+#bookButtonPrius:hover {
+
+    opacity: 0.9;
+    box-shadow: 5px 5px 10px;
+    
+
+
+}
+
+
+#bookButtonPrius:active {
+
+    opacity: 0.7;
+
+}
+
+
+#bookButtonPriusPrime1 {
+
+    font-size: 41px;
+    transform: translate(115%, 80%);
+    border-radius: 100px;
+    cursor: pointer;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color:rgb(255, 0, 0);
+   transition: box-shadow 0.2s;
+   border-style: none;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+   
+
+
+}
+
+
+#bookButtonPriusPrime1:hover {
+
+    opacity: 0.9;
+    box-shadow: 5px 5px 10px;
+    
+
+
+}
+
+
+#bookButtonPriusPrime1:active {
+
+    opacity: 0.7;
+
+}
+
+#bookButtonPriusPrime2 {
+
+    font-size: 41px;
+    transform: translate(115%, 80%);
+    border-radius: 100px;
+    cursor: pointer;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color:rgb(255, 0, 0);
+   transition: box-shadow 0.2s;
+   border-style: none;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+   
+
+
+}
+
+
+#bookButtonPriusPrime2:hover {
+
+    opacity: 0.9;
+    box-shadow: 5px 5px 10px;
+    
+
+
+}
+
+
+#bookButtonPriusPrime2:active {
+
+    opacity: 0.7;
+
+}
+
+
+
+#bookButtonLexus {
+
+    font-size: 41px;
+    transform: translate(115%, 80%);
+    border-radius: 100px;
+    cursor: pointer;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color:rgb(255, 0, 0);
+   transition: box-shadow 0.2s;
+   border-style: none;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+   
+
+
+}
+
+
+#bookButtonLexus:hover {
+
+    opacity: 0.9;
+    box-shadow: 5px 5px 10px;
+    
+
+
+}
+
+
+#bookButtonLexus:active {
+
+    opacity: 0.7;
+
+}
+
+    
+    
+    body {
+
+background-color: rgb(40, 107, 101);
+
+        
+    }
+
+    #mustangText {
+
+
+        transform: translate(0%, -950%);
+        display: inline-block;
+        color: rgb(255, 255, 255);
+        text-shadow: 4px 3px 5px #000000;
+        
+       
+    }
+
+    #priusText {
+
+
+        transform: translate(89%, -950%);
+        display: inline-block;
+        color: rgb(255, 255, 255);
+        text-shadow: 4px 3px 5px #000000;
+    }
+
+    #lexusText {
+
+
+        transform: translate(25%, -700%);
+        display: inline-block;
+        color: rgb(255, 255, 255);
+        text-shadow: 4px 3px 5px #000000;
+    }
+
+    #priusPrime1Text {
+
+
+        transform: translate(35%, -700%);
+        display: inline-block;
+        color: rgb(255, 255, 255);
+        text-shadow: 4px 3px 5px #000000;
+    }
+
+
+    #priusPrime2Text {
+
+
+        transform: translate(35%, -700%);
+        display: inline-block;
+        color: rgb(255, 255, 255);
+        text-shadow: 4px 3px 5px #000000;
+    }
+
+    #rentalCars {
+
+text-align: center;
+font-size: 90px;
+color: white;
+text-shadow: 4px 3px 5px #ffd738;
+
+
+
+
+
+    }
+
+   
+
